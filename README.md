@@ -1,3 +1,12 @@
+I used React, Redux, and Tailwind CSS to build this website, which allows users to sign in and out. The primary functionality of this website is the ability to view, update, and delete job lists as well as create new job lists.
+open link to view.
+
+
+You can view this app using netlify link https://peaceful-kleicha-def64b.netlify.app/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
